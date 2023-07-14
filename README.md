@@ -1,0 +1,13 @@
+![hello](https://github.com/gamzeyaylaonu/gamzeyaylaonu/assets/135466558/f791c6a0-5e45-4b9a-a32c-58eaa8a8143f)
+
+
+- 👋 Hi, I’m @gamzeyaylaonu
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+gamzeyaylaonu/gamzeyaylaonu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
