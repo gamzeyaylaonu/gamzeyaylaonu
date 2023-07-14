@@ -9,3 +9,5 @@
 - 💞️ I’m looking to collaborate on to develop website
 - 📫 How to reach me <i class="fa-brands fa-instagram"></i> <a href=""> https://www.instagram.com/gamzeyaylaonu/ </a>
                      <i class="fa-brands fa-linkedin"></i> <a href=""> https://www.linkedin.com/in/gamze-yayla%C3%B6n%C3%BC-383a27108/ </a>
+
+                     https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg 
