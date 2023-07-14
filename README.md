@@ -2,30 +2,14 @@
 
 
 - <h3>👋 Hi, I’m @gamzeyaylaonu </h3>
+-🤖 I'm a software/front-end developer.
 - 👩‍🔬 I have been a science teacher for 8 years. I am studying astronomy and space sciences.I produce content on instagram on <a href="" > https://www.youtube.com/channel/UCatnasFAiXUvWwH8NlSdd3A </a> Turkey's largest science site about science.
 - 👀 I’m interested in writing code, researching science, experimenting, learning new things and unraveling the mysteries of the universe.
 - <img src="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-- 🌱 I’m currently learning <i class="fa-brands fa-bootstrap"></i>  <i class="fa-brands fa-html5"></i>  <i class="fa-brands fa-css3-alt"></i>  <i class="fa-brands fa-js"></i>  <i class="fa-brands fa-sass"></i>  <i class="fa-brands fa-figma"></i>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+- 🌱 I’m currently learning JS & React & Typescript
 - 💞️ I’m looking to collaborate on to develop website
-- 📫 How to reach me <i class="fa-brands fa-instagram"></i> <a href=""> https://www.instagram.com/gamzeyaylaonu/ </a>
-                     <i class="fa-brands fa-linkedin"></i> <a href=""> https://www.linkedin.com/in/gamze-yayla%C3%B6n%C3%BC-383a27108/ </a>
+- 📫 How to reach me 🚨</i> <a href=""> https://www.instagram.com/gamzeyaylaonu/ </a>
+                     🚨</i> <a href=""> https://www.linkedin.com/in/gamze-yayla%C3%B6n%C3%BC-383a27108/ </a>
 
-  ---------------------------
-
-  ### 📩 Connect with me:
-
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="bionluk | Bionluk" width="24px" src="https://i0.wp.com/www.moramfi.com/wp-content/uploads/2020/06/unnamed-min-1.png?resize=344%2C344&ssl=1" />][bionluk]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
-
-
-<br />
-
-
-[instagram]: https://www.instagram.com/ibrahim_talha_demir
-[bionluk]: https://bionluk.com/peyksoftware/ekibimle-beraber-mobil-uygulama-gelistirebilirim-332677
-[linkedin]: https://www.linkedin.com/in/ibrahim-talha-demir-4b513a1a9/
-[medium]: https://demiribrahimtalha.medium.com/
-[gmail]: mailto:demiribrahimtalha@gmail.com
-<br />
