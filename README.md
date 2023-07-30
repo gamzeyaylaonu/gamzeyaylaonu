@@ -5,6 +5,10 @@
 
 -🤖 I'm a software/front-end developer.
 
+-🧑‍🚀 People around me describe me as an enthusiastic, witty, highly communicative, warm-blooded, tennis-loving individual who knows what he wants and works hard on this path.
+I am an enthusiastic and highly motivated teacher who has analytical thinking skills, produces new ideas, learns by experimenting, organizes and develops the ideas produced, and wants to raise individuals who have mastered the technologies of our age. I continue to take software training in order to start with these thinking skills and production first from myself and to look at my life from the perspective of the technology world. This enthusiasm and innovative approach in this sector also contributes a lot to my experiments, that is, to my projects on code. My biggest dream was to study astronomy, and I realized it. Now I am taking firm steps towards my software dream. My biggest motivation, success and research spirit, became the supporters of my radical career change plan.
+I am trying to close my gap in the sector in a short time with my analytical thinking ability and determination brought about by being a Science graduate.
+
 - 👩‍🔬 I have been a science teacher for 8 years. I am studying astronomy and space sciences.I produce content on instagram on <a href="" > https://www.youtube.com/channel/UCatnasFAiXUvWwH8NlSdd3A </a> Turkey's largest science site about science.
   
 - 👀 I’m interested in writing code, researching science, experimenting, learning new things and unraveling the mysteries of the universe.
